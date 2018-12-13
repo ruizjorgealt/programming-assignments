@@ -7,6 +7,6 @@ Main languages used to complete these assignments are:
 2. java
 
 Courses include:
-csit802 – Introduction to c++
-csit839 – Intermediate programming using c++
-csit890 – Object oriented programming using java
+• csit802 – Introduction to c++
+• csit839 – Intermediate programming using c++
+• csit890 – Object oriented programming using java
